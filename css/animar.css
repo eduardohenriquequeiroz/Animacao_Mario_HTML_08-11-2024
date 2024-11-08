@@ -1,0 +1,20 @@
+@keyframes animar{
+    0%{
+        background-image: url('../img/Mário\ parado.png');
+    }
+    20%{
+        background-image: url('../img/Mário\ correndo.png');
+    }
+    40%{
+        background-image: url('../img/Mário\ correndo2.png');
+    }
+    60%{
+        background-image: url('../img/Mário\ parado2.png');
+    }
+    80%{
+        background-image: url('../img/Mário\ correndo.png');
+    }
+    100%{
+        background-image: url('../img/Mário\ correndo2.png');
+    }
+}
